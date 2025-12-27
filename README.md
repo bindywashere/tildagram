@@ -24,9 +24,6 @@
     </table>
   </details>
 </h3>
-## Q&A
-### Q: How to pronounce name of this client?
-- A: TildaGram. And yes, you can turn it into MatildaGram.
 
 ## Downloads
 
@@ -36,6 +33,10 @@ You can download prebuilt Windows binary from [Releases tab](https://github.com/
 Sorry, ~Gram is not available on any Linux yet:(
 ### MacOS
 Sorry, ~Gram is not available on MacOS yet:(
+
+## Q&A
+### Q: How to pronounce name of this client?
+- A: TildaGram. And yes, you can turn it into MatildaGram.
 
 ## Donation
 Enjoy using **~Gram**? So, you can donate for Ayugram, because ~Gram is forked from it!
