@@ -1,6 +1,6 @@
 # ~Gram
 
-![TildaGram Logo](.github/TildaGram_logo128x128.png) 
+![TildaGram Logo](.github/TildaGram_logo_128x128.png) 
 
 [ English  |   [Русский](README-RU.md) ]
 
