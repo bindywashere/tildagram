@@ -1,4 +1,4 @@
-# AyuGram
+# ~Gram
 
 ![AyuGram Лого](.github/AyuGram.png) ![AyuChan](.github/AyuChan.png)
 
