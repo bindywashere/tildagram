@@ -5,7 +5,7 @@
 [ [English](README.md)  | Русский ]
 
 ## Функции и Фишки
-- Всё из Ayugram(вот [документация]((https://docs.ayugram.one/desktop/))
+- Всё из Ayugram(вот [документация](https://docs.ayugram.one/desktop/))
 - Интерфейс в стиле TUI
 
 <h3>
